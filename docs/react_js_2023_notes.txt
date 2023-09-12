@@ -4,6 +4,13 @@ https://react.dev/
 upd version:
 https://react.dev/blog/2023/03/16/introducing-react-dev
 
+css:
+https://tailwindcss.com/
+https://tailwindcss.com/docs/guides/create-react-app
+
 - need to have node.js & npm
 - use command to create an empty reactjs app with typescript usage in currect directory:
 npx create-react-app --template typescript .
+
+Start react app:
+npm start
