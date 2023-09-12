@@ -6,8 +6,8 @@ function App() {
   // )
 
   return e('div', {className: 'container'}, [
-    e('h1', {className: 'font-bold'}, 'Test JSX'),
-    e('button', {className: ''}, 'Click me!')
+    e('h1', {className: 'font-bold', key: 1}, 'Test JSX'),
+    e('button', {className: '', key: 2}, 'Click me!')
   ])
 }
 
